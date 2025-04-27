@@ -1,0 +1,54 @@
+{
+  "ClassesData": {
+    "menuTitle": "Choose Your Class",
+    "menuGuide": "Classes in games are essentially predefined roles that define how a character interacts with the world, engages in combat, and supports or challenges others. Each class typically offers a unique set of abilities, strengths, and weaknesses, allowing players to choose a playstyle that matches their preferences.\n\nClasses determine what a character can do—whether it's dealing damage, healing, controlling the environment, or providing support. In many games, classes can be tailored or evolved as characters progress, giving players room for customization.\n\nAt their core, classes help balance gameplay by ensuring that different types of characters can interact with each other in complementary ways. Whether you prefer upfront combat, stealth, magic, or healing, the diversity of classes ensures that every player can find a role that suits them, whether playing solo or as part of a team.",
+    "buttonTitles": [
+      "Server Website",
+      "Server Discord"
+    ],
+    "buttonUrls": [
+      "",
+      ""
+    ],
+    "raceNames": [
+      "Warrior",
+      "Mage",
+      "Assassin",
+      "Thief",
+      "Healer",
+      "Druid",
+      "Vampire",
+      "Werewolf"
+    ],
+    "selectableClass": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "classDescriptions": [
+      "A durable and powerful fighter specializing in melee combat. Perfect for those who want to take the front line, dish out heavy damage, and endure through tough battles.",
+      "Masters of arcane magic, the Mage can unleash devastating spells from a distance. Ideal for players who enjoy strategic thinking, versatile spells, and manipulating the battlefield with magic.",
+      "Stealthy and deadly, Assassins excel at taking out enemies quietly and efficiently. This class is for those who enjoy sneaking around and dealing massive damage with quick strikes.",
+      "Agile and cunning, Thieves are experts at stealing, disarming traps, and unlocking doors. If you enjoy exploration, collecting valuable items, and outsmarting enemies, this is the class for you.",
+      "A vital support role, Healers can restore health, cure ailments, and protect allies. Ideal for players who enjoy helping the team stay alive and thriving through tough encounters.",
+      "Nature’s protectors, Druids can transform into animals, summon nature-based allies, and control the forces of the natural world. Perfect for those who want versatility and the ability to shape-shift.",
+      "A dark and seductive class with enhanced strength, speed, and a thirst for blood. Vampires can manipulate darkness, regenerate health, and dominate their enemies. Best for players who enjoy a mix of stealth, strength, and supernatural powers.",
+      "A ferocious and primal class, Werewolves gain immense power and agility during the full moon. They are ideal for those who want a beastly, high-damage class with a focus on physical prowess and speed."
+    ],
+    "statModifiers": [
+      "0,3,1/1,1,1/3,200,0",
+      "0,300,0/1,-100,0/5,200,0",
+      "0,50,0/1,2,1/6,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0"
+    ]
+  }
+}
